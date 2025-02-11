@@ -18,12 +18,13 @@
 // export default App;
 
 import React from 'react';
-import UseEffectEx from './hookexample/UseEffectEx';
-
+// import UseEffectEx from './hookexample/Use EffectEx';
+import RefExample from './RefExample';
 export const App = () => {
   return (
     <div>
-      <UseEffectEx />
+      {/* <UseEffectEx /> */}
+      <RefExample/>
     </div>
   );
 };
