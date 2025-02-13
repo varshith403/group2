@@ -1,0 +1,8 @@
+Routing in react:-
+******************
+- routing is nothing but navigation between two pages without reloading the web page.
+- routing is not a part of react but we are using this with the help of third party library called
+        "react-router-dom".
+
+- npm install react-router-dom@latest
+
